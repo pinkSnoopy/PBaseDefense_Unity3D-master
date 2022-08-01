@@ -1,0 +1,2534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPattern_AbstractFactory.AbstractFactory" Collapsed="true">
+    <Position X="21.75" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.ConcreateFactory1" Collapsed="true">
+    <Position X="20.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.ConcreateFactory2" Collapsed="true">
+    <Position X="22.75" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.AbstractProductA" Collapsed="true">
+    <Position X="16.75" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.ProductA1" Collapsed="true">
+    <Position X="15.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.ProductA2" Collapsed="true">
+    <Position X="17.75" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.AbstractProductB" Collapsed="true">
+    <Position X="11.75" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.ProductB1" Collapsed="true">
+    <Position X="10.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_AbstractFactory.ProductB2" Collapsed="true">
+    <Position X="12.75" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactoryTest" Collapsed="true">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Abstract Factory\AbstractFactoryTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterTest" Collapsed="true">
+    <Position X="50.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Adapter\AdapterTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeTest" Collapsed="true">
+    <Position X="40" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\BridgeTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderTest" Collapsed="true">
+    <Position X="41.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Builder\BuilderTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainofResponsibilityTest" Collapsed="true">
+    <Position X="54" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Chain of Responsibility\ChainofResponsibilityTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandTest" Collapsed="true">
+    <Position X="48.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\CommandTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeTest" Collapsed="true">
+    <Position X="50.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Composite\CompositeTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorTest" Collapsed="true">
+    <Position X="43.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\DecoratorTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethodTest" Collapsed="true">
+    <Position X="52.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethodTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightTest" Collapsed="true">
+    <Position X="55.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Flyweight\FlyweightTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorTest" Collapsed="true">
+    <Position X="52.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Mediator\MediatorTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MementoTest" Collapsed="true">
+    <Position X="55.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Memento\MementoTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverTest" Collapsed="true">
+    <Position X="41.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Observer\ObserverTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeTest" Collapsed="true">
+    <Position X="54" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Prototype\PrototypeTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyTest" Collapsed="true">
+    <Position X="55.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Proxy\ProxyTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassWithCounter" Collapsed="true">
+    <Position X="47" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAIAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Singleton\ClassWithCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingletonTest" Collapsed="true">
+    <Position X="52.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Singleton\SingletonTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateTest" Collapsed="true">
+    <Position X="43.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\State\StateTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategyTest" Collapsed="true">
+    <Position X="45.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Strategy\StrategyTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateMethodTest" Collapsed="true">
+    <Position X="47" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Template Method\TemplateMethodTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitorTest" Collapsed="true">
+    <Position X="48.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitorTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisitorTest" Collapsed="true">
+    <Position X="41.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\VisitorTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierCaptiveBuildParam" Collapsed="true">
+    <Position X="21.25" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\SoldierCaptiveBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierCaptiveBuilder" Collapsed="true">
+    <Position X="13.25" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAACAAAAAAACgAAAAAAAAAAEAAEAEAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\SoldierCaptiveBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementSaveData" Collapsed="true">
+    <Position X="41.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgCAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Achievement\AchievementSaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementSystem" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAQAAACAgAAAAAAEAAQAAAEAQAAAAACA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Achievement\AchievementSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APSystem" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAAEAAAJAAAAAEEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\AP\APSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGameSystem" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\BaseClass\IGameSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IUserInterface" Collapsed="true">
+    <Position X="4" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAESAAEAAAAAAAQAAEAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\BaseClass\IUserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CampSystem" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAQAAACAABIQAAAAAAAgBAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\CampSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CaptiveCamp" Collapsed="true">
+    <Position X="5.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAAACAAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\CaptiveCamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICamp" Collapsed="true">
+    <Position X="6.75" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgAgCABgACoMAAAAACABAIABQAAIgAiAAKAAAgAURAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\ICamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CampOnClick" Collapsed="true">
+    <Position X="47" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\Script\CampOnClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierCamp" Collapsed="true">
+    <Position X="7.75" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgCAAAACAEAAAAACAAgAABAAABAAgAAAAAAiAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\SoldierCamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITrainCommand" Collapsed="true">
+    <Position X="35.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\TrainCommand\ITrainCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainCaptiveCommand" Collapsed="true">
+    <Position X="34.5" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAAAAAAAAQAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\TrainCommand\TrainCaptiveCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainSoldierCommand" Collapsed="true">
+    <Position X="36.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAQAAAAAAAAAAAABAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\TrainCommand\TrainSoldierCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITrainCost" Collapsed="true">
+    <Position X="12.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\TrainCost\ITrainCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainCost" Collapsed="true">
+    <Position X="12.5" Y="39.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Camp\TrainCost\TrainCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttackAIState" Collapsed="true">
+    <Position X="0.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\AIState\AttackAIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChaseAIState" Collapsed="true">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAEAIAAAAAIAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\AIState\ChaseAIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuardAIState" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAACAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\AIState\GuardAIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAIState" Collapsed="true">
+    <Position X="5.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAMAAAiAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\AIState\IAIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdleAIState" Collapsed="true">
+    <Position X="7.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\AIState\IdleAIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveAIState" Collapsed="true">
+    <Position X="9.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\AIState\MoveAIState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAI" Collapsed="true">
+    <Position X="34.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAgAAAAAAIAAAAAAAAAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICharacterAI" Collapsed="true">
+    <Position X="35.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDQAAEACAAAAAAAAAAAAAAQsAIAAQAQAAABAAACgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\ICharacterAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierAI" Collapsed="true">
+    <Position X="36.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterAI\SoldierAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterBuilderSystem" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\CharacterBuilderSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBuildParam" Collapsed="true">
+    <Position X="16.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\EnemyBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBuilder" Collapsed="true">
+    <Position X="8.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAACAAAAAAACgAAAAAAAAAAEAAEAEAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\EnemyBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICharacterBuildParam" Collapsed="true">
+    <Position X="19" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQCAAgAAAAIAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\ICharacterBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICharacterBuilder" Collapsed="true">
+    <Position X="11" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAACAAAAAAACAAAAAAAAAAAEAAEAEAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\ICharacterBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierBuildParam" Collapsed="true">
+    <Position X="19" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\SoldierBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierBuilder" Collapsed="true">
+    <Position X="11" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAACAAAAAAACgAAAAAAAAAAEAAEAEAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterBuilder\SoldierBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterSystem" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCUAAEIAIAAAAAAAAAAABAAAAAAAAAAAEAgAACAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICharacterVisitor" Collapsed="true">
+    <Position X="1.75" Y="34.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAAAAAAAAABAAAIAAABAAAAAJBAAAgAAAAAAg=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterVisitor\ICharacterVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierAddMedalVisitor" Collapsed="true">
+    <Position X="0.5" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterVisitor\SoldierAddMedalVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitCountVisitor" Collapsed="true">
+    <Position X="2.75" Y="35.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAgJAAAAgJAAABABAIQAABAAAAAJBAAAkAAIAAAo=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\CharacterVisitor\UnitCountVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyCaptive" Collapsed="true">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Enemy\EnemyCaptive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyElf" Collapsed="true">
+    <Position X="12.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Enemy\EnemyElf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyOgre" Collapsed="true">
+    <Position X="14.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Enemy\EnemyOgre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyTroll" Collapsed="true">
+    <Position X="17" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Enemy\EnemyTroll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IEnemy" Collapsed="true">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAAEAAAAAAAAAAAAAAAAAAAAABAAAAAAAACABAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Enemy\IEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICharacter" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MA8DACEMUCIAAQAAAAAEAIgAAIKIgAAABFkA5BAEDGI=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\ICharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterMovement" Collapsed="true">
+    <Position X="41.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAiABAAQAAAAAYAAgAAAYAiQAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Script\CharacterMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EffectDelete" Collapsed="true">
+    <Position X="48.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Script\EffectDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierOnClick" Collapsed="true">
+    <Position X="40" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAACACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Script\SoldierClickScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISoldier" Collapsed="true">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIABMEAQIAAAAAAAAAAAAAAAAAAAAAACAAAAAAQAg=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Soldier\ISoldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierCaptain" Collapsed="true">
+    <Position X="1.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Soldier\SoldierCaptain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierCaptive" Collapsed="true">
+    <Position X="3.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Soldier\SoldierCaptive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierRookie" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Soldier\SoldierRookie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierSergeant" Collapsed="true">
+    <Position X="8" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Soldier\SoldierSergeant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAssetFactory" Collapsed="true">
+    <Position X="19" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAIAEAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AssetFactory\IAssetFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalAssetFactory" Collapsed="true">
+    <Position X="15.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAIAEAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AssetFactory\LocalAssetFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemoteAssetFactory" Collapsed="true">
+    <Position X="18" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAIAEAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AssetFactory\RemoteAssetFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceAssetFactory" Collapsed="true">
+    <Position X="20.25" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAzEAAAAAAAQIAAAKIEAQgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AssetFactory\ResourceAssetFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceAssetProxyFactory" Collapsed="true">
+    <Position X="22.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAIAAAAAAADkAAAACAAAECAAICEAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AssetFactory\ResourceAssetProxyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttrFactory" Collapsed="true">
+    <Position X="9.5" Y="39.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAACAAABCIAAAQgAAAAEAEAAAQgCAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AttrFactory\AttrFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAttrFactory" Collapsed="true">
+    <Position X="9.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAQAAAAAEAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\AttrFactory\IAttrFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterFactory" Collapsed="true">
+    <Position X="6.5" Y="39.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\CharacterFactory\CharacterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterFactory_Generic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="40" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\CharacterFactory\CharacterFactory_Generic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ICharacterFactory" Collapsed="true">
+    <Position X="6.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\CharacterFactory\ICharacterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PBDFactory" Collapsed="true">
+    <Position X="50.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQASACAAAEAAAAABABAIAAAgAAAACAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\PBDFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IWeaponFactory" Collapsed="true">
+    <Position X="3.5" Y="38.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\WeaponFactory\IWeaponFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponFactory" Collapsed="true">
+    <Position X="3.5" Y="39.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\WeaponFactory\WeaponFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAttrStrategy" Collapsed="true">
+    <Position X="33.5" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\AttrStrategy\EnemyAttrStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IAttrStrategy" Collapsed="true">
+    <Position X="34.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\AttrStrategy\IAttrStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierAttrStrategy" Collapsed="true">
+    <Position X="35.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\AttrStrategy\SoldierAttrStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseAttr" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterBaseAttr" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAQAAAMAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBaseAttr" Collapsed="true">
+    <Position X="17.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdditionalAttr" Collapsed="true">
+    <Position X="52.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAAAAAAAAAAAAABCAAgAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttrDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseAttrDecorator" Collapsed="true">
+    <Position X="22.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAQAACAAAAAAAACAEAAQAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttrDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrefixBaseAttr" Collapsed="true">
+    <Position X="20" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttrDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuffixBaseAttr" Collapsed="true">
+    <Position X="22.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttrDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrengthenBaseAttr" Collapsed="true">
+    <Position X="24.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAQAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttrDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyAttr" Collapsed="true">
+    <Position X="33.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAQAAAAAAAAQCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\EnemyAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICharacterAttr" Collapsed="true">
+    <Position X="34.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAABEKAoAAAAAAAAAQIIAQACgAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\ICharacterAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierAttr" Collapsed="true">
+    <Position X="35.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAABIAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAg=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\SoldierAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponAttr" Collapsed="true">
+    <Position X="47" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\WeaponAttr\WeaponAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComboObserver" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAgAAAAAAAAAAAAAAgAAABQAAACQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\ComboObserver\ComboObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyKilledObserverAchievement" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAACAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\EnemyKilledObserver\EnemyKilledObserverAchievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyKilledObserverCaptiveCamp" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\EnemyKilledObserver\EnemyKilledObserverCaptiveCamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyKilledObserverStageScore" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAACAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\EnemyKilledObserver\EnemyKilledObserverStageScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyKilledObserverUI" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAQAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\EnemyKilledObserver\EnemyKilledObserverUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGameEventObserver" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\IGameEventObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewStageObserverAchievement" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAACAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\NewStageObserver\NewStageObserverAchievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewStageObserverSoldierAddMedal" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAQAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\NewStageObserver\NewStageObserverSoldierAddMedal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierKilledObserverAchievement" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAACAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\SoldierKilledObserver\SoldierKilledObserverAchievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierKilledObserverUI" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\SoldierKilledObserver\SoldierKilledObserverUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierUpgateObserverUI" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventObserver\SoldierUpgateObserver\SoldierUpgateObserverUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyKilledSubject" Collapsed="true">
+    <Position X="15.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgAAAAQAAAAAAAAEAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSubject\EnemyKilledSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IGameEventSubject" Collapsed="true">
+    <Position X="19" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAIAAAAAAAAAAIAIAABAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSubject\IGameEventSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewStageSubject" Collapsed="true">
+    <Position X="18" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSubject\NewStageSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierKilledSubject" Collapsed="true">
+    <Position X="20.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgIAAAAAAAAAAAAEAoAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSubject\SoldierKilledSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierUpgateSubject" Collapsed="true">
+    <Position X="22.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAQAAAAAoAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSubject\SoldierUpgateSubject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEventSystem" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAKAAAAABAABAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLoop" Collapsed="true">
+    <Position X="40" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameLoop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PBaseDefenseGame" Collapsed="true">
+    <Position X="47" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FGQEAMgAAAAQAABAABIIAEAYACADAKgCSEgBADEqAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\PBaseDefenseGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PBaseDefenseGameUnitTest" Collapsed="true">
+    <Position X="48.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAOAAgQCAAAAAACAAqAAAAAAAAACAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\PBaseDefenseGameUnitTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleState" Collapsed="true">
+    <Position X="25.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\SceneState\BattleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISceneState" Collapsed="true">
+    <Position X="28" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAIEEAAAAAABAAAAAAAAAAAAAAEAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\SceneState\ISceneState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuState" Collapsed="true">
+    <Position X="28" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\SceneState\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneStateController" Collapsed="true">
+    <Position X="43.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAAABAAAAAAAACAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\SceneState\SceneStateController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartState" Collapsed="true">
+    <Position X="30.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\SceneState\StartState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IStageData" Collapsed="true">
+    <Position X="37.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageData\IStageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalStageData" Collapsed="true">
+    <Position X="37.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACAgBAAAAAAAAAAAAAAAAAAABAQAABAACgA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageData\NormalStageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossStageHandler" Collapsed="true">
+    <Position X="33.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageHandler\BossStageHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IStageHandler" Collapsed="true">
+    <Position X="33.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAABACAABAAAAAAAAAAAAAAAAAAABAIQAABAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageHandler\IStageHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalStageHandler" Collapsed="true">
+    <Position X="33.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAABAAAAAAAAAAAAAAAAAAABAIAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageHandler\NormalStageHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IStageScore" Collapsed="true">
+    <Position X="37.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageScore\IStageScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageScoreEnemyKilledCount" Collapsed="true">
+    <Position X="37.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAgAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageScore\StageScoreEnemyKilledCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StageSystem" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgCAQAACCAAQAAIABgAAAABAAAgIAAAECAABYAGAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Stage\StageSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UITool" Collapsed="true">
+    <Position X="54" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAIAAAACQAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Tools\UITool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityTool" Collapsed="true">
+    <Position X="55.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAIAAAAEAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Tools\UnityTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CampInfoUI" Collapsed="true">
+    <Position X="5.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAQADEQACAEFAwIABAAABBQEAAJAABAASAAAABAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\UI\CampInfoUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePauseUI" Collapsed="true">
+    <Position X="7.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEAAAAAQAIEAAkAAAgAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\UI\GamePauseUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStateInfoUI" Collapsed="true">
+    <Position X="0.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EARQAACQAAAAAQAoBAAABAAAIQAAAAgAAAAABBkAgBA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\UI\GameStateInfoUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierInfoUI" Collapsed="true">
+    <Position X="3" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIQSAHAABAAAAAABAAAAACBEAEBAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\UI\SoldierInfoUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IWeapon" Collapsed="true">
+    <Position X="27" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQJAAAIQAgIAYEAAGAACQABACREgASACAgAgBgAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Weapon\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponGun" Collapsed="true">
+    <Position X="24.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Weapon\WeaponGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponRifle" Collapsed="true">
+    <Position X="27" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Weapon\WeaponRifle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponRocket" Collapsed="true">
+    <Position X="29.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Weapon\WeaponRocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Adapter.Target" Collapsed="true">
+    <Position X="0.5" Y="37.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Adapter\Adapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Adapter.Adaptee" Collapsed="true">
+    <Position X="48.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Adapter\Adapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Adapter.Adapter" Collapsed="true">
+    <Position X="0.5" Y="38.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Adapter\Adapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.Implementor" Collapsed="true">
+    <Position X="31.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.ConcreteImplementor1" Collapsed="true">
+    <Position X="30.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.ConcreteImplementor2" Collapsed="true">
+    <Position X="32.75" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.Abstraction" Collapsed="true">
+    <Position X="26.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.RefinedAbstraction1" Collapsed="true">
+    <Position X="25.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.RefinedAbstraction2" Collapsed="true">
+    <Position X="27.75" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.WindowImp" Collapsed="true">
+    <Position X="21.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.XWindowImp" Collapsed="true">
+    <Position X="20.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.PMWindowImp" Collapsed="true">
+    <Position X="22.75" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.Window" Collapsed="true">
+    <Position X="16.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAgAAIA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.IconWindow" Collapsed="true">
+    <Position X="15.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Bridge.TransientWindow" Collapsed="true">
+    <Position X="17.75" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Bridge\Bridge_Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Builder.Product" Collapsed="true">
+    <Position X="52.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Builder.Builder" Collapsed="true">
+    <Position X="11.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Builder.ConcreteBuilderA" Collapsed="true">
+    <Position X="10.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Builder.ConcreteBuilderB" Collapsed="true">
+    <Position X="12.75" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Builder.Director" Collapsed="true">
+    <Position X="45.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ChainofResponsibility.Handler" Collapsed="true">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Chain of Responsibility\ChainofResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ChainofResponsibility.ConcreteHandler1" Collapsed="true">
+    <Position X="24.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Chain of Responsibility\ChainofResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ChainofResponsibility.ConcreteHandler2" Collapsed="true">
+    <Position X="27" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Chain of Responsibility\ChainofResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ChainofResponsibility.ConcreteHandler3" Collapsed="true">
+    <Position X="29.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Chain of Responsibility\ChainofResponsibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Command.Command" Collapsed="true">
+    <Position X="33.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Command.ConcreteCommand1" Collapsed="true">
+    <Position X="32.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAgAAAAAAACA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Command.ConcreteCommand2" Collapsed="true">
+    <Position X="34.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Command.Receiver1" Collapsed="true">
+    <Position X="40" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Command.Receiver2" Collapsed="true">
+    <Position X="41.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Command.Invoker" Collapsed="true">
+    <Position X="47" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Command\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Composite.IComponent" Collapsed="true">
+    <Position X="6.75" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIABAAAAAQAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Composite\Composite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Composite.Leaf" Collapsed="true">
+    <Position X="5.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Composite\Composite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Composite.Composite" Collapsed="true">
+    <Position X="7.75" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIABBAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Composite\Composite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Decorator.Component" Collapsed="true">
+    <Position X="3" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Decorator.ConcreteComponent" Collapsed="true">
+    <Position X="0.75" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Decorator.Decorator" Collapsed="true">
+    <Position X="4" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Decorator.ConcreteDecoratorA" Collapsed="true">
+    <Position X="3" Y="27.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Decorator.ConcreteDecoratorB" Collapsed="true">
+    <Position X="5.25" Y="27.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.RenderEngine" Collapsed="true">
+    <Position X="37.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.OpenGL" Collapsed="true">
+    <Position X="37.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.IShape" Collapsed="true">
+    <Position X="33.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.Sphere" Collapsed="true">
+    <Position X="32.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.IShapeDecorator" Collapsed="true">
+    <Position X="34.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.IAdditional" Collapsed="true">
+    <Position X="36.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.Border" Collapsed="true">
+    <Position X="36.5" Y="20.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_ShapeDecorator.BorderDecorator" Collapsed="true">
+    <Position X="34.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Decorator\ShapeDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.Product" Collapsed="true">
+    <Position X="32.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.ConcreteProductA" Collapsed="true">
+    <Position X="31.5" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.ConcreteProductB" Collapsed="true">
+    <Position X="33.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.Creator" Collapsed="true">
+    <Position X="1.75" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.ConcreteCreatorProductA" Collapsed="true">
+    <Position X="0.5" Y="32.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.ConcreteCreatorProductB" Collapsed="true">
+    <Position X="2.75" Y="32.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.Creator_MethodType" Collapsed="true">
+    <Position X="36.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.ConcreteCreator_MethodType" Collapsed="true">
+    <Position X="36.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.ConcreteCreator_GenericMethod" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="52.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DesignPattern_FactoryMethod.Creator_GenericClass&lt;T&gt;" Collapsed="true">
+    <Position X="41.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Flyweight.Flyweight" Collapsed="true">
+    <Position X="34.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQACAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Flyweight\Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Flyweight.ConcreteFlyweight" Collapsed="true">
+    <Position X="34.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Flyweight\Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Flyweight.UnsharedCoincreteFlyweight" Collapsed="true">
+    <Position X="40" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Flyweight\Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Flyweight.FlyweightFactor" Collapsed="true">
+    <Position X="54" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAY=</HashCode>
+      <FileName>Assets\DesignPatternExample\Flyweight\Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Mediator.Mediator" Collapsed="true">
+    <Position X="35.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Mediator\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Mediator.Colleague" Collapsed="true">
+    <Position X="31.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Mediator\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Mediator.ConcreateColleague1" Collapsed="true">
+    <Position X="30.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\DesignPatternExample\Mediator\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Mediator.ConcreateColleague2" Collapsed="true">
+    <Position X="32.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\DesignPatternExample\Mediator\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Mediator.ConcreteMediator" Collapsed="true">
+    <Position X="35.5" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAACAAAAAAAAAAAAAAQAIAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Mediator\Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Memento.Memento" Collapsed="true">
+    <Position X="54" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Memento\Memento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Memento.Originator" Collapsed="true">
+    <Position X="45.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAABAAAAQAAAAAABAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Memento\Memento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Memento.Caretaker" Collapsed="true">
+    <Position X="52.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Memento\Memento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Observer.Observer" Collapsed="true">
+    <Position X="30.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Observer\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Observer.Subject" Collapsed="true">
+    <Position X="31.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAIAAAABAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Observer\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Observer.ConcreteSubject" Collapsed="true">
+    <Position X="31.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Observer\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Observer.ConcreteObserver1" Collapsed="true">
+    <Position X="29.5" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Observer\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Observer.ConcreteObserver2" Collapsed="true">
+    <Position X="31.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Observer\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Prototype.ConcretePrototype" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="54" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Prototype\Prototype.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DesignPattern_Proxy.Subject" Collapsed="true">
+    <Position X="26.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Proxy\Proxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Proxy.RealSubject" Collapsed="true">
+    <Position X="25.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Proxy\Proxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Proxy.Proxy" Collapsed="true">
+    <Position X="27.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Proxy\Proxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Singleton.Singleton" Collapsed="true">
+    <Position X="50.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Singleton\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_State.Context" Collapsed="true">
+    <Position X="55.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\State\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_State.State" Collapsed="true">
+    <Position X="26" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\State\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_State.ConcreteStateA" Collapsed="true">
+    <Position X="23.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\State\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_State.ConcreteStateB" Collapsed="true">
+    <Position X="26" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\State\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_State.ConcreteStateC" Collapsed="true">
+    <Position X="28.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\State\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Strategy.Context" Collapsed="true">
+    <Position X="40" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Strategy\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Strategy.Strategy" Collapsed="true">
+    <Position X="19" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Strategy\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Strategy.ConcreteStrategyA" Collapsed="true">
+    <Position X="21.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Strategy\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Strategy.ConcreteStrategyB" Collapsed="true">
+    <Position X="16.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Strategy\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Strategy.ConcreteStrategyC" Collapsed="true">
+    <Position X="19" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Strategy\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_TemplateMethod.AbstractClass" Collapsed="true">
+    <Position X="21.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Template Method\TemplateMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_TemplateMethod.ConcreteClassA" Collapsed="true">
+    <Position X="20.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Template Method\TemplateMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_TemplateMethod.ConcreteClassB" Collapsed="true">
+    <Position X="22.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Template Method\TemplateMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.RenderEngine" Collapsed="true">
+    <Position X="16.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.DirectX" Collapsed="true">
+    <Position X="15.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.OpenGL" Collapsed="true">
+    <Position X="17.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgCAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.IShapeVisitor" Collapsed="true">
+    <Position X="11" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.DrawVisitor" Collapsed="true">
+    <Position X="8.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.VectorCountVisitor" Collapsed="true">
+    <Position X="11" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAgAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.SphereVolumeVisitor" Collapsed="true">
+    <Position X="13.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.IShape" Collapsed="true">
+    <Position X="24" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAHAAAiAAAAAAAAAAEAAACAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.Sphere" Collapsed="true">
+    <Position X="21.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.Cube" Collapsed="true">
+    <Position X="24" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.Cylinder" Collapsed="true">
+    <Position X="26.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapeVisitor.ShapeContainer" Collapsed="true">
+    <Position X="47" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\ShapeVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.Visitor" Collapsed="true">
+    <Position X="11.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.Element" Collapsed="true">
+    <Position X="30.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.ConcreteElementA" Collapsed="true">
+    <Position X="29.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.ConcreteElementB" Collapsed="true">
+    <Position X="31.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.ConcreteVicitor1" Collapsed="true">
+    <Position X="10.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.ConcreteVicitor2" Collapsed="true">
+    <Position X="12.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPattern_Visitor.ObjectStructure" Collapsed="true">
+    <Position X="40" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Visitor\Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.RenderEngine" Collapsed="true">
+    <Position X="6.75" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.DirectX" Collapsed="true">
+    <Position X="5.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.OpenGL" Collapsed="true">
+    <Position X="7.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.IShape" Collapsed="true">
+    <Position X="35.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.Sphere" Collapsed="true">
+    <Position X="35.5" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.IAdditional" Collapsed="true">
+    <Position X="28.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutDecoratorPattern.Border" Collapsed="true">
+    <Position X="28.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutDecoratorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutPattern.DirectX" Collapsed="true">
+    <Position X="47" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutPattern.OpenGL" Collapsed="true">
+    <Position X="43.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutPattern.ISphere" Collapsed="true">
+    <Position X="29.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutPattern.SphereDX" Collapsed="true">
+    <Position X="28.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutPattern.SphereGL" Collapsed="true">
+    <Position X="30.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.RenderEngine" Collapsed="true">
+    <Position X="1.75" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.DirectX" Collapsed="true">
+    <Position X="2.75" Y="29.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.OpenGL" Collapsed="true">
+    <Position X="0.5" Y="29.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgCAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.IShape" Collapsed="true">
+    <Position X="3" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAHAAAiAAAAAAAAAAEAAACAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.Sphere" Collapsed="true">
+    <Position X="0.75" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.Cube" Collapsed="true">
+    <Position X="3" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.Cylinder" Collapsed="true">
+    <Position X="5.25" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.ShapeContainer" Collapsed="true">
+    <Position X="45.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAACAQIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithoutVisitorPattern.TestClass" Collapsed="true">
+    <Position X="50.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithoutVisitorPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.RenderEngine" Collapsed="true">
+    <Position X="28.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.DirectX" Collapsed="true">
+    <Position X="27.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.OpenGL" Collapsed="true">
+    <Position X="29.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.IShape" Collapsed="true">
+    <Position X="18" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.Sphere" Collapsed="true">
+    <Position X="15.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.Cube" Collapsed="true">
+    <Position X="18" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildToolWithPattern.Cylinder" Collapsed="true">
+    <Position X="20.25" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\3DBuildToolWithPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementSaveWithoutPattern.AchievementSystem" Collapsed="true">
+    <Position X="47" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAQBgAAIAAgAAAQAAAAhSAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AchievementSaveWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementSaveWithoutPattern.AchievementSaveData" Collapsed="true">
+    <Position X="43.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AchievementSaveWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementWithoutPattern.AchievementSystem" Collapsed="true">
+    <Position X="45.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAEAAAAAACAAAgAIAAAAQAAQAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AchievementWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIWithoutState.ICharacter" Collapsed="true">
+    <Position X="28.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCEKAAQEICAgBAIAAAACAAAAAMAIAAAAQAAAAAAADAA=</HashCode>
+      <FileName>Assets\ExampleCode\AIWithoutState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIWithoutState.IEnemy" Collapsed="true">
+    <Position X="27.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AIWithoutState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIWithoutState.ISoldier" Collapsed="true">
+    <Position X="29.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AIWithoutState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttrFactoryWithoutPattern.SoldierAttr" Collapsed="true">
+    <Position X="54" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AttrFactoryWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttrFactoryWithoutPattern.EnemyAttr" Collapsed="true">
+    <Position X="50.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AttrFactoryWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttrFactoryWithoutPattern.IAttrFactory" Collapsed="true">
+    <Position X="25.5" Y="35.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AttrFactoryWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttrFactoryWithoutPattern.AttrFactory" Collapsed="true">
+    <Position X="25.5" Y="36.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AttrFactoryWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndValue.Weapon" Collapsed="true">
+    <Position X="45.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIJAAAgAAAAAAAAACAAAAAAAAAEAACAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndValue.Character" Collapsed="true">
+    <Position X="55.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAEIAAEAAAAAAAAAAAAABICIAAAAAgAAAAACAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndPrefixBaseAttr.ICharacterAttr" Collapsed="true">
+    <Position X="45.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAFBAAgEAAAAAAAAQIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndPrefixBaseAttr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndWeapon.Weapon" Collapsed="true">
+    <Position X="43.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAgAAAAAAAAACAAAAAAAABEAASAAAAAACgAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndWeapon.ICharacter" Collapsed="true">
+    <Position X="25.75" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEIACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndWeapon.IEnemy" Collapsed="true">
+    <Position X="24.5" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAndWeapon.ISoldier" Collapsed="true">
+    <Position X="26.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.ISoldier" Collapsed="true">
+    <Position X="48.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.CampInfoUI" Collapsed="true">
+    <Position X="45.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.CampSystem" Collapsed="true">
+    <Position X="50.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAEABACAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.APSystem" Collapsed="true">
+    <Position X="54" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAQCAAAEAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.GameStateInfoUI" Collapsed="true">
+    <Position X="43.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.CharacterSystem" Collapsed="true">
+    <Position X="45.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorWithoutPattern.TestClass" Collapsed="true">
+    <Position X="52.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\MediatorWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.ICharacter" Collapsed="true">
+    <Position X="6.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAgAAAAGA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.IEnemy" Collapsed="true">
+    <Position X="3.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.EnemyElf" Collapsed="true">
+    <Position X="1" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.EnemyOgre" Collapsed="true">
+    <Position X="3.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.EnemyTroll" Collapsed="true">
+    <Position X="5.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.ISoldier" Collapsed="true">
+    <Position X="10" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.SoldierCaptain" Collapsed="true">
+    <Position X="7.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.SoldierRookie" Collapsed="true">
+    <Position X="10" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.SoldierSergeant" Collapsed="true">
+    <Position X="12.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.ICharacterFactory" Collapsed="true">
+    <Position X="11.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAAAAAAAAAAACAgAAEAAAAgAIAAAAAAAQAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.CharacterFactory" Collapsed="true">
+    <Position X="11.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAAAAAAAAIACAACAEAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.SoldierFactory" Collapsed="true">
+    <Position X="10.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAAAAAAAAAACAAAAEAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithFactory.EnemyFactory" Collapsed="true">
+    <Position X="12.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAAAAAAAAAACAACAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.ICharacter" Collapsed="true">
+    <Position X="18.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAgAAAACA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.IEnemy" Collapsed="true">
+    <Position X="15.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.EnemyElf" Collapsed="true">
+    <Position X="13" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.EnemyOgre" Collapsed="true">
+    <Position X="15.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.EnemyTroll" Collapsed="true">
+    <Position X="17.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.ISoldier" Collapsed="true">
+    <Position X="22" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.SoldierCaptain" Collapsed="true">
+    <Position X="19.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.SoldierRookie" Collapsed="true">
+    <Position X="22" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.SoldierSergeant" Collapsed="true">
+    <Position X="24.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.SoldierCamp" Collapsed="true">
+    <Position X="55.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAEAAAAgAAEAAAAAgAAAAAAQAQAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewRoleWithoutFactory.StageSystem" Collapsed="true">
+    <Position X="41.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQEAAAAAAAAAAAAgAAAAAAAAAIBAAAAACAAA=</HashCode>
+      <FileName>Assets\ExampleCode\NewRoleWithoutFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceAssetFactoryWithCache.IAssetFactory" Collapsed="true">
+    <Position X="0.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\ResourceAssetFactoryWithCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceAssetFactoryWithCache.ResourceAssetFactory" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAQIAIACAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\ResourceAssetFactoryWithCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.ISoldier" Collapsed="true">
+    <Position X="50.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.CampInfoUI" Collapsed="true">
+    <Position X="43.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.CampSystem" Collapsed="true">
+    <Position X="48.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAEABACAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.APSystem" Collapsed="true">
+    <Position X="55.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAQCAAAEAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.GameStateInfoUI" Collapsed="true">
+    <Position X="41.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.CharacterSystem" Collapsed="true">
+    <Position X="43.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheTest1.TestClass" Collapsed="true">
+    <Position X="48.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TCharacterFactory_Generic" Collapsed="true">
+    <Position X="43.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Factory\CharacterFactory\TCharacterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DesignPattern_FactoryMethod.Creator_GenericMethod" Collapsed="true">
+    <Position X="40" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Factory Method\FactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DesignPattern_Prototype.Prototype" Collapsed="true">
+    <Position X="41.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\DesignPatternExample\Prototype\Prototype.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ENUM_Enemy" Collapsed="true">
+    <Position X="45.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAEAAAAAAAAAAAAAAAAAAAAAIIAhAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Enemy\IEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ENUM_Soldier" Collapsed="true">
+    <Position X="50.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Character\Soldier\ISoldier.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ENUM_AttrDecorator" Collapsed="true">
+    <Position X="41.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameAttr\CharacterAttr\BaseAttr\BaseAttrDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ENUM_GameEvent" Collapsed="true">
+    <Position X="47" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIAAAAAAgAAAAAAAQAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\GameEvent\GameEventSystem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ENUM_Weapon" Collapsed="true">
+    <Position X="52.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAABAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\P-BaseDefenseAssets\GameCode\Weapon\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AchievementWithoutPattern.ENUM_GameEvent" Collapsed="true">
+    <Position X="48.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIAAAAAAgAAAAAAAQAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AchievementWithoutPattern.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AIWithoutState.ENUM_AI_State" Collapsed="true">
+    <Position X="40" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\AIWithoutState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CharacterAndValue.ENUM_Weapon" Collapsed="true">
+    <Position X="54" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAABAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndAttr.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CharacterAndValue.ENUM_Character" Collapsed="true">
+    <Position X="43.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndAttr.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CharacterAndWeapon.ENUM_Weapon" Collapsed="true">
+    <Position X="55.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAABAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\ExampleCode\CharacterAndWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
